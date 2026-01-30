@@ -12,4 +12,4 @@ View the resume by opening the `index.html` file.
 
 ## Screenshots
 ![Screenshot 1](Screenshot 2026-01-30 202702.png)
-![Screenshot 2](screenshots/2.png)
+![Screenshot 2](Screenshot 2026-01-30 202749.png)
