@@ -1,7 +1,7 @@
 # HTML Resume
 
 ## Description
-This repository contains my resume built using HTML and CSS.
+This repository contains my resume built using HTML.
 
 ## Setup
 1. Clone the repository
