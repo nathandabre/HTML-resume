@@ -11,5 +11,5 @@ This repository contains my resume built using HTML and CSS.
 View the resume by opening the `index.html` file.
 
 ## Screenshots
-![Screenshot 1](screenshots/1.png)
+![Screenshot 1](2026-01-30 202702.png)
 ![Screenshot 2](screenshots/2.png)
